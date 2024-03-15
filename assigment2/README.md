@@ -25,15 +25,14 @@ pip install -r requirements.txt
 python Assignment-02.py
 
 
-# Results 
 
-![1](image/lilium4.png)
 
-![2](image/1.png)
 
-![3](image/60.png)
 
-![4](image/61.png)
+
+
+
+
 
 
 
